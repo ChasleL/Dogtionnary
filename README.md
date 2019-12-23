@@ -11,7 +11,7 @@ Mobile Application listing dog breeds from Dog API
 
 
 - Installation d'Android Studio
-- Clone la branche master avec le lien ci-dessous : <br/>
+- Cloner la branche master avec le lien ci-dessous : <br/>
 
 ````
 git clone https://github.com/ChasleL/Dogtionnary.git
