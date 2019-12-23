@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dogtionary</string>
+    <string name="breed_list">Dog Breeds</string>
+    <string name="random_picture">Random</string>
+    <string name="title_list">Dog Breeds</string>
+    <string name="title_random">Random</string>
+    <string name="title_notifications">Notification</string>
+</resources>
