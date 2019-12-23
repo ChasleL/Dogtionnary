@@ -26,8 +26,7 @@ git clone https://github.com/ChasleL/Dogtionnary.git
 - Utilisation de plusieurs fragments
 - Git
 - Design Pattern : Singleton, Adapter
-- ** Autres Fonctionnalités : **
-  - Material Bottom Navigation Bar
+- Material Bottom Navigation Bar
 
 
  ## Fonctionnalités: 
