@@ -43,7 +43,7 @@ git clone https://github.com/ChasleL/Dogtionnary.git
  - Affichage d'une image aléatoire de chien à travers les données d'un URL.
 
 
- <img src="screenReadMe/breeds_list.jpg" width="20%" heignt="40%" alt="random1"> <img src="screenReadMe/breeds_list.jpg" width="20%" heignt="40%" alt="random2">
+ <img src="screenReadMe/random_picture1.jpg" width="20%" heignt="40%" alt="random1"> <img src="screenReadMe/random_picture2.jpg" width="20%" heignt="40%" alt="random2">
  
  ### Librairies :
  - Retrofit
